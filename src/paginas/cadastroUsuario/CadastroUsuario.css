@@ -1,8 +1,4 @@
-.textos1{
-
-    font-weight: bold !important;
-}
-.imagem{
+.imagem2{
 
     background-image: url(https://www.shopify.com.br/burst/imagens-hd/laptop-iluminado/download);
     background-repeat:'no-repeat';
@@ -11,8 +7,10 @@
      background-size:cover;
      background-position:center;
 }
-
-.text-decorator-none{
-    text-decoration: none;
+.textos2{
+    font-weight: bold !important;
+}
+.btnCancelar{
+    margin-right: 20px !important;
 
 }
