@@ -12,11 +12,11 @@ function TabPostagem() {
     }
   return (
     <>
-      <TabContext value={value}>
-        <AppBar position="static">
+      <TabContext value={value} >
+        <AppBar position="static" style={{backgroundColor:'darkred'}}>
           <Tabs centered indicatorColor="secondary" onChange={handleChange}>
-            <Tab label="Todas as postagens" value="1"/>
-            <Tab label="Sobre-nós" value="2" />
+            <Tab label="Todas as postagens" value="1" className='titulo'/>
+            <Tab label="Sobre-nós" value="2" className='titulo'/>
           </Tabs>
         </AppBar>
         <TabPanel value="1" >

@@ -4,15 +4,22 @@
 }
 .imagem{
 
-    background-image: url(https://www.shopify.com.br/burst/imagens-hd/laptop-iluminado/download);
+    background-image: url("C:\Users\jessy\Downloads\Meu projeto.png");
     background-repeat:'no-repeat';
      width:100vh;
      min-height:100vh;
      background-size:cover;
      background-position:center;
+    
+
+
 }
 
 .text-decorator-none{
     text-decoration: none;
+    
+}
+.cor-fundo{
 
+    
 }

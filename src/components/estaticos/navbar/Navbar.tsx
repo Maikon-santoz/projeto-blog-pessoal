@@ -20,7 +20,8 @@ function Navbar() {
                 <Toolbar variant="dense">
                     <Box  className='cursor' >
                         <Typography variant="h5" color="inherit" className='teste-de-letra'>
-                            Blog Pessoal
+                            <img src="https://img.icons8.com/color/480/berserk.png" alt="foto" className='logo' />
+                            
                         </Typography>
                     </Box>
                     <Grid container justifyContent='flex-end' className='topo'>
