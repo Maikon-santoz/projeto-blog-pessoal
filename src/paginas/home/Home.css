@@ -7,12 +7,16 @@ background-size: cover;
 .titulo{
     color: white !important;
     font-weight: bold !important;
+    font-family: 'Gemunu Libre', sans-serif !important
 }
 .botao{
     border-color: white !important;
      background-color: #3F51B5;
-      color: white !important
+     color: white !important
 };
 .postagens{
     background-color: white;
+}
+.text-decorator-none{
+    text-decoration: none;
 }

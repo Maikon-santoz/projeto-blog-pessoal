@@ -18,8 +18,8 @@ function TabPostagem() {
             <Tab label="Todas as postagens" value="1" className='titulo'/>
             <Tab label="Sobre-nós" value="2" className='titulo'/>
           </Tabs>
-        </AppBar>
-        <TabPanel value="1" >
+        </AppBar >
+        <TabPanel value="1" className='cor-do-centro'>
           <Box display="flex" flexWrap="wrap" justifyContent="center">
             <ListaPostagem />
           </Box>
