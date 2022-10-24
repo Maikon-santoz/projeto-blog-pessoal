@@ -4,7 +4,7 @@
 }
 .imagem{
 
-    background-image: url("C:\Users\jessy\Downloads\Meu projeto.png");
+    background-image: url("../../../public/meu_projeto.png");
     background-repeat:'no-repeat';
      width:100vh;
      min-height:100vh;
